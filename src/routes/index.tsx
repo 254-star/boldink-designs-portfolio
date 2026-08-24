@@ -9,17 +9,17 @@ import { processSteps, services, site, skills, testimonials } from "@/data/site"
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "BOLDINK DESIGNS — Bold Brand & Graphic Design by Nelson Kariuki" },
+      { title: "Boldink Designs | Graphic Design Studio in Kenya" },
       {
         name: "description",
         content:
-          "Portfolio of Nelson Kariuki (BOLDINK DESIGNS): brand identity, campaign artwork, motion, 3D and print design for brands that refuse to blend in.",
+          "Boldink Designs is a graphic design studio creating bold branding, posters, social media graphics, visual identities and creative designs in Kenya.",
       },
-      { property: "og:title", content: "BOLDINK DESIGNS — Bold Brand & Graphic Design" },
+      { property: "og:title", content: "Boldink Designs | Graphic Design Studio in Kenya" },
       {
         property: "og:description",
         content:
-          "Brand identity, campaign artwork, motion, 3D and print design from Kiambu, Kenya.",
+          "Boldink Designs is a graphic design studio creating bold branding, posters, social media graphics, visual identities and creative designs in Kenya.",
       },
     ],
     links: [{ rel: "canonical", href: "/" }],
