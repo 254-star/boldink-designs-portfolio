@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace REPLACE_AFTER_DEPLOYMENT.vercel.app with the final hosting hostname. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/</loc></url>
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/work</loc></url>
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/about</loc></url>
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/contact</loc></url>
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/work/product-design-and-visualization</loc></url>
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/work/club-designs</loc></url>
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/work/infographics</loc></url>
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/work/travel-design</loc></url>
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/work/event-invitation</loc></url>
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/work/skin-retouching</loc></url>
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/work/social-media-designs-ii</loc></url>
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/work/events-flyers-and-posters</loc></url>
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/work/roll-ups-and-banners</loc></url>
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/work/posters-and-flyers-designs</loc></url>
+  <url><loc>https://REPLACE_AFTER_DEPLOYMENT.vercel.app/work/social-media-designs</loc></url>
+</urlset>
