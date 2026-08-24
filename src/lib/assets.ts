@@ -1,5 +1,7 @@
 const ASSET_PREFIX = "/__l5e/assets-v1/";
-const ASSET_HOST = import.meta.env.VITE_LOVABLE_ASSET_HOST?.trim();
+const ASSET_HOST =
+  import.meta.env.VITE_LOVABLE_ASSET_HOST?.trim() ||
+  "id-preview--866b6666-ff25-4956-8dc6-9ff5181cc85c.lovable.app";
 
 /**
  * Media lives in the project's private cloud storage bucket and is served
