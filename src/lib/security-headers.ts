@@ -7,7 +7,7 @@ const csp = [
   "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
   "font-src 'self' data: https://fonts.gstatic.com",
   "img-src 'self' data: blob: https:",
-  `connect-src 'self' ${supabaseOrigin} https://*.supabase.co wss://*.supabase.co`.trim(),
+  `connect-src 'self' ${supabaseOrigin} https://*.supabase.co wss://*.supabase.co https://api.web3forms.com`.trim(),
   "media-src 'self' https:",
   "object-src 'none'",
   "base-uri 'self'",
